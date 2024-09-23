@@ -19,9 +19,7 @@ MatrixLibrary a lightweight and efficient matrix library that allows users to pe
 Getting Started
 
 Prerequisites
-- Python 3 (if this is a Python library)
-- Numpy (or any other package if you use it)
+- Python 3 
+- Numpy 
 
- Installation
-You can install the library using the following steps:
 
